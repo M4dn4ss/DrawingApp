@@ -1,0 +1,10 @@
+D:\Projeler\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe.config
+D:\Projeler\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe
+D:\Projeler\DrawingApp\DrawingApp\bin\Debug\DrawingApp.pdb
+D:\Projeler\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csprojAssemblyReference.cache
+D:\Projeler\DrawingApp\DrawingApp\obj\Debug\DrawingApp.DrawingForm.resources
+D:\Projeler\DrawingApp\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+D:\Projeler\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+D:\Projeler\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+D:\Projeler\DrawingApp\DrawingApp\obj\Debug\DrawingApp.exe
+D:\Projeler\DrawingApp\DrawingApp\obj\Debug\DrawingApp.pdb
